@@ -2,7 +2,7 @@
 
 This is a complete course on Inngest, covering all the essential topics to get you started and proficient with the platform.
 
-Visit the [Inngest Documentation](https://innge.st/yt-hc-3) for more information and resources.
+Visit the [Inngest Documentation](https://innge.st/yt-hc-3) for more information and resource.
 
 ---
 
